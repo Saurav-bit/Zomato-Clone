@@ -69,7 +69,7 @@ const explore=[
         discount:"20%"
     },
     {
-        id:4,
+        id:5,
         image:"https://b.zmtcdn.com/data/pictures/chains/7/147/75d199829038cdcd50e25bf3f43bc5eb_o2_featured_v2.jpg",
         name:"Subway",
         time:"25 Min",
@@ -78,7 +78,7 @@ const explore=[
         discount:"10%"
     },
     {
-        id:4,
+        id:6,
         image:"https://b.zmtcdn.com/data/pictures/chains/1/18345461/63371e1c88ea433b1936caa675f6b4c8_o2_featured_v2.jpg",
         name:"Wakhra Swaad",
         time:"31 Min",
@@ -87,16 +87,16 @@ const explore=[
         discount:"60%"
     },
     {
-      id:5,
+      id:7,
       image:"https://b.zmtcdn.com/data/pictures/chains/1/931/50379406931033fbc83f5eddf5bfbd74_o2_featured_v2.jpg",
-      name:"Wakhra Swaad",
+      name:"KFC",
       time:"27 Min",
       rating:"4.1",
       price :"250",
       discount:"15%"
   },
   {
-    id:6,
+    id:8,
     image:"https://b.zmtcdn.com/data/pictures/chains/4/18555894/c3475c44105ab07b22c8f73e8ff11e0f_o2_featured_v2.jpg",
     name:"The Punjabi Junction",
     time:"31 Min",
@@ -105,16 +105,16 @@ const explore=[
     discount:"50%"
 },
 {
-  id:7,
-  image:"https://b.zmtcdn.com/data/pictures/chains/1/18345461/63371e1c88ea433b1936caa675f6b4c8_o2_featured_v2.jpg",
-  name:"Wakhra Swaad",
-  time:"31 Min",
+  id:9,
+  image:"https://b.zmtcdn.com/data/pictures/chains/5/312995/1aab6ed03346abae636bdac9cb1626b1_o2_featured_v2.jpg",
+  name:"Biryani By Kilo",
+  time:"90 Min",
   rating:"4.1",
-  price :"250",
-  discount:"60%"
+  price :"150",
+  discount:"50%"
 },
 {
-  id:8,
+  id:10,
   image:"https://b.zmtcdn.com/data/pictures/3/3843/4bcdfa841b749e3399e72088aa22b9f4_o2_featured_v2.jpg",
   name:"Rasoi Deliver",
   time:"35 Min",
@@ -123,7 +123,7 @@ const explore=[
   discount:"40%"
 },
 {
-  id:9,
+  id:11,
   image:"https://b.zmtcdn.com/data/pictures/chains/0/550/a915df22032cd899f9cab92e1bb57c8c_o2_featured_v2.jpg",
   name:"Haldiram's",
   time:"20 Min",
@@ -132,7 +132,7 @@ const explore=[
   discount:"5%"
 },
 {
-  id:10,
+  id:12,
   image:"https://b.zmtcdn.com/data/pictures/chains/0/9670/acd2de3ac05764e4335abf0c8eb0fc4d_o2_featured_v2.jpg",
   name:"Shree Rathnam",
   time:"31 Min",
