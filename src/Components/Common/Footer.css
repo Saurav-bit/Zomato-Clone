@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+.main-footer{
+    background-color: var(--collection-bg);
+    padding: 4em 2em;
+}
+.foot{
+    flex-direction: column;
+}
+.para{
+    display: block;
+}
+
+.foot-name
+{
+    font-family: 'Rock Salt', cursive;
+}

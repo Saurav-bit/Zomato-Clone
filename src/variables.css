@@ -1,0 +1,9 @@
+#root{
+    --bg-color:rgb(255, 255, 255);
+    --header-border:rgb(232, 232, 232);
+    --tab-name-color:rgb(105, 105, 105);
+    --zomato-red:#FF7E88;
+    --collection-bg :rgb(248,248,248);
+    --collection-shadow:rgb(0 0 0 / 8%) 0px 3px 12px;
+    --discount-blue:rgb(37,111,239);
+}

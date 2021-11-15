@@ -1,0 +1,27 @@
+.cover{
+    height: 190px;
+    width: 250px;
+    background-color: --var(--bg-color);
+    border-radius: 8px;
+    box-shadow: var(--collection-shadow);
+    margin: 10px;
+
+}
+
+.image-cover{
+    object-fit: cover;
+    height: 100%;
+    width:100%;
+    border-radius:8px;
+
+}
+.cover-name{
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 500;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-top:6px;
+    margin-left: 10px;
+
+}

@@ -1,0 +1,74 @@
+
+.collect_cover{
+    width: 250px;
+    height: 350px;
+    margin: 10px;
+    
+    cursor: pointer;
+    position: relative;
+    border-radius: 0.5rem;
+  
+}
+
+.kuch{
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0) linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.05) 85%) repeat scroll 0% 0%;
+
+}
+
+.collect_image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0.5rem;
+   
+}
+
+.collect_text{
+    position: absolute;
+    bottom: 15px;
+    color: white;
+    padding: 0px 16px;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    
+}
+.collect_text_name{
+font-size: 1.5em;
+
+font-weight: 400;
+width: 250px;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+
+}
+
+.right-arrow{
+    display: inline-block;
+    color: white;
+    height: max-content;
+    font-size: 5px;
+}
+
+.collect_text_places{
+    font-size: 15px;
+    
+    font-weight: 300;
+}
+
+.caret-icon{
+    font-size: 20px;
+   display: inline-block;
+  
+   position: absolute;
+   bottom: -5px;
+   
+    
+    
+    
+}

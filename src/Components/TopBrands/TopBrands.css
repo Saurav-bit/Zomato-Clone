@@ -1,0 +1,16 @@
+.wrapper-brands{
+    padding: 40px 0px;
+}
+
+.collection-title{
+    font-size: 2em;
+}
+
+.item-wrap{
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    border: 0.5px solid rgb(232, 232, 232);
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 3px 12px;
+    border-radius: 10%;
+}
